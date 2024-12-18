@@ -12,5 +12,31 @@ This investigation looked at how human generated notes could be automatically pr
 * What sort of toolkit would the researcher like to record their notes in?
 * What form of acknowledgement would an archival user need to understand how their catalogue description was created?
 
+# People
+**Natasha Kitcher** – Conceptualization, Data curation, Formal analysis, Investigation, Methodology, Project administration, Writing<br>
+
+**James Elder** – Data curation, Resources<br>
+
+**Elspeth Millar** – Data curation, Resources<br>
+
+**Jon Agar** – Supervision<br>
+
+**Alex Fitzpatrick** - Writing (review & editing)<br>
+
+**Alisdair Martin** – Investigation, Resources<br>
+
+**Andrew Hurst** – Investigation, Resources<br>
+
+**David Sutton** – Investigation, Resources<br>
+
+**Hywel Clatworthy** – Investigation, Resources<br>
+
+**Mark Cook** – Investigation, Resources<br>
+
+**Paul Bottomley** – Investigation, Resources<br>
+
+**Richard Haydon** – Investigation, Resources<br>
+
+
 # License
 This work is licensed under a [Creative Commons Attribution 4.0 License - CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
