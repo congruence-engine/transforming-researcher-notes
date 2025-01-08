@@ -1,9 +1,9 @@
 # Transforming Personal Researcher Notes into Archival Descriptions
 
-*This page is currently under construction*
-
 # Short summary
 This investigation looked at how human generated notes could be automatically processed into catalogue descriptions and catalogue tags to improve the searchability of the archive for future users. Natasha Kitcher worked with a team of volunteers to generate researcher notes and then relied on CustomGPT to automatically transform handwritten and typed notes into catalogue descriptions. 
+
+To hear about this investigation check out this online webinar: https://www.youtube.com/watch?v=W_R2_A8uZ3E from 41:17 
 
 # Research questions
 * Can researcher notes be used to enhance pre-existing catalogue descriptions? 
