@@ -37,6 +37,8 @@ To hear about this investigation check out this online webinar: https://www.yout
 
 **Richard Haydon** – Investigation, Resources<br>
 
+## Outputs  
+- Forthcoming book chapter in *Emergent Histories: New Work in the Digital History of Industry and Collections from the Congruence Engine Project*
 
 # License
 This work is licensed under a [Creative Commons Attribution 4.0 License - CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
